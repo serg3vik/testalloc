@@ -1,3 +1,3 @@
-!dll/*
-!lib/*
+!dll/**/*.dll
+!lib/**/*.lib
 
